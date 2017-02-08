@@ -1,0 +1,16 @@
+PODS:
+  - SliderComponent (0.1.0)
+
+DEPENDENCIES:
+  - SliderComponent (from `../`)
+
+EXTERNAL SOURCES:
+  SliderComponent:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SliderComponent: 7d24125d13e8125e7675108520be502ff765ad47
+
+PODFILE CHECKSUM: 6ec7726eaa0319ee429fee07f6b3932d4985d1e0
+
+COCOAPODS: 1.1.1

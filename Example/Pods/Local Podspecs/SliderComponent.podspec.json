@@ -1,0 +1,22 @@
+{
+  "name": "SliderComponent",
+  "version": "0.1.0",
+  "summary": "A short description of SliderComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/thakurAmit/SliderComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "thakurAmit": "akt_6@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/thakurAmit/SliderComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SliderComponent/Classes/**/*"
+}

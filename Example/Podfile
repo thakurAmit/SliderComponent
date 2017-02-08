@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SliderComponent_Tests' do
+  pod 'SliderComponent', :path => '../'
+  
+  
+end
