@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SliderComponent'
   s.version          = '0.1.0'
-  s.summary          = 'A simple slider with the view for slider and a UITextField for the question"
+  s.summary          = 'A simple slider with the view for slider and a UITextField for the question'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = "A simple slider component with the view for slider and a UITextField for the question and another field to diplay the value selected by user"
+  s.description      = 'A simple slider component with the view for slider and a UITextField for the question and another field to diplay the value selected by user'
 
   s.homepage         = 'https://github.com/thakurAmit/SliderComponent'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
